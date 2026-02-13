@@ -7,4 +7,4 @@ Languages:
  - Js/Ts
  - Java
 
-![Go Version](https://img.shields.io/github/go-mod/go-version/USER/REPO?style=for-the-badge)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
